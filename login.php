@@ -15,7 +15,7 @@ if($query)
 	echo "<script>alert('You are successfully register');</script>";
 }
 else{
-echo "<script>alert('Not register something went worng');</script>";
+echo "<script>alert('not register something went worng');</script>";
 }
 }
 // Code for User login
