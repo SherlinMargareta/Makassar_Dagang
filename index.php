@@ -148,7 +148,7 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 							<i class="icon fa fa-gift"></i>
 						</div>
 						<div class="col-xs-10">
-							<h4 class="info-box-heading red">Special Sale</h4>
+							<h4 class="info-box-heading red">special Sale</h4>
 						</div>
 					</div>
 					<h6 class="text">All items-sale up to 20% off </h6>	
