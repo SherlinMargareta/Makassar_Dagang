@@ -120,7 +120,7 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 						     <i class="icon fa fa-dollar"></i>
 						</div>
 						<div class="col-xs-10">
-							<h4 class="info-box-heading green">money back</h4>
+							<h4 class="info-box-heading green">Money back</h4>
 						</div>
 					</div>	
 					<h6 class="text">30 Day Money Back Guarantee.</h6>
